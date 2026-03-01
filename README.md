@@ -135,8 +135,3 @@ Bản wizard phù hợp nếu máy yếu, hoặc bạn muốn log gọn trong co
 
 ## 8) License
 MIT License — xem file `LICENSE`.
-
----
-
-## 9) Gợi ý phát hành (khuyến nghị)
-Repo hiện chưa có mục Releases. Bạn có thể tạo GitHub Release và đính kèm `.exe` để người dùng tải dễ hơn.
